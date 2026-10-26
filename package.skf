@@ -2,10 +2,10 @@
     имя = "skyforge-netguard"
     версия = "0.1.0"
     автор = "SkyPackages"
-    описание = "Валидация сетевых параметров (IP, CIDR, MAC, порты) для SkyForge."
+    описание = "Валидация сетевых параметров."
     репозиторий = "github.com/skytech-alt/skyforge-netguard"
     точка_входа = "code/main.skf"
-    теги = ["network", "security", "ip", "cidr", "mac"]
+    теги = ["network", "security"]
     лицензия = "MIT"
     зависимости = []
 }
